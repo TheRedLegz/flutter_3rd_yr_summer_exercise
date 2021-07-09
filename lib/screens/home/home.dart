@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class HomeScreen extends StatelessWidget {
+  final int sampleNumber = 0;
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
