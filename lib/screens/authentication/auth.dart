@@ -8,6 +8,7 @@ import 'package:get/get.dart';
 
 class AuthenticationScreen extends StatelessWidget {
   final AppController _appController = Get.find();
+  final int sampleNumber = 0;
 
   @override
   Widget build(BuildContext context) {
