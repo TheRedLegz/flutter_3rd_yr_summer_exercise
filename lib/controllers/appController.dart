@@ -8,7 +8,8 @@ class AppController extends GetxController{
   Rx<Widget> activeDraggableWidget = Rx<Widget>(DevicesDraggable());
   Rx<DeviceModel> activeDevie = DeviceModel().obs;
   RxBool isLoginWidgetDisplayed = true.obs;
-
+  //RxBool isLoginWidgetDisplayed = true.obs;
+  //
 
   changeDIsplayedAuthWidget(){
     isLoginWidgetDisplayed.value = !isLoginWidgetDisplayed.value;
