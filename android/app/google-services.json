@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099165140927",
+    "project_id": "device-tracker-exercise",
+    "storage_bucket": "device-tracker-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099165140927:android:9447d8f403fab6f7b8c30a",
+        "android_client_info": {
+          "package_name": "com.santosenoque.cadevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099165140927-0iafhjbde1592ve2i1092b65ck47j2ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJN9bY6tC5KdmvoM3n2xw5T8IuUuhRls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099165140927-0iafhjbde1592ve2i1092b65ck47j2ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
